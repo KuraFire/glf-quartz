@@ -1,3 +1,61 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+blockquote.transclude {
+  border: none;
+  margin: 0;
+  padding: 0;
+
+  a.transclude-src,
+  > h1:first-child {
+    display: none;
+  }
+}
+
+nobr {
+  color: #fa1982;
+}
+// :root[saved-theme=dark] nobr {
+//   color: #ff73b2;
+// }
+
+// Changes to Quartz's styles
+ul.overflow,
+ol.overflow {
+  max-height: none;
+}
+ul.overflow:after,
+ol.overflow:after {
+  display: none;
+}
+li.section-li > .section.no-dates {
+  grid-template-columns: 4fr 1fr;
+}
+
+// From GLF design
+:root {
+  --foreground-rgb: 17, 23, 41;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+
+  --max-page-width: 90rem; /* 1440px */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 74, 85, 103;
+    --background-end-rgb: 17, 23, 41;
+  }
+}
+
+// body {
+//   color: rgb(var(--foreground-rgb));
+//   background: linear-gradient(
+//       to bottom,
+//       rgb(var(--background-start-rgb)),
+//       rgb(var(--background-end-rgb))
+//     )
+//     rgb(var(--background-start-rgb));
+//   background-attachment: fixed;
+// }

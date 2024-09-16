@@ -3,6 +3,7 @@ import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, joinSegments, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
+import { log } from "node:console"
 
 type CrumbData = {
   displayName: string
@@ -121,6 +122,8 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         })
       }
     }
+
+    log(crumbs)
 
     return (
       <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="breadcrumbs">

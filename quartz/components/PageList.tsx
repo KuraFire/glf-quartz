@@ -3,6 +3,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
+import { classNames } from "../util/lang"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -42,11 +43,14 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
+        const showDates = fileData.frontmatter?.showdates // ?? true
+
+        const showDatesClass = showDates ? "show-dates" : "no-dates"
 
         return (
           <li class="section-li">
-            <div class="section">
-              {page.dates && (
+            <div class={classNames(showDatesClass, "section")}>
+              {page.dates && showDates && (
                 <p class="meta">
                   <Date date={getDate(cfg, page)!} locale={cfg.locale} />
                 </p>
