@@ -25,18 +25,18 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    // Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        title: "Site map",
-        folderClickBehavior: "link",
-        folderDefaultState: "open",
-      }),
-    ),
+    // Component.DesktopOnly(
+    //   Component.Explorer({
+    //     title: "Site map",
+    //     folderClickBehavior: "link",
+    //     folderDefaultState: "open",
+    //   }),
+    // ),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     // Component.Backlinks(),
   ],

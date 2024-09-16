@@ -17,10 +17,11 @@ That’s what is called *Cosmic Flow State*, and Love First is your path to get 
 
 ## What is Love First?
 
-[[Love First]] is a framework for transforming your reality in a way that benefits all areas of your life, making you feel more connected to your best self, your loved ones, and the world around you. 
+<nobr>Love First</nobr> is a framework for transforming your reality in a way that benefits all areas of your life, making you feel more connected to your best self, your loved ones, and the world around you. 
 
 Love First brings together ancient wisdom with cutting-edge science from fields like flow state, neurolinguistic programming, mindfulness, psychology and more, to create a holistic way of being that helps you get attuned to the magic and mysteries of the universe. And even if you’re not into spiritual stuff, or think this is a little “woo” for you, the evidence-based practices and teachings will help you elevate your life to the next level all the same.
 
+If you’re ready to advance and live a life in *Cosmic Flow State*, check out [Love First Coaching](https://lovefirstcoaching.com/).
 
 ## Our world kinda sucks (but it doesn’t have to)
 
@@ -32,5 +33,5 @@ Love First goes beyond just *personal* development, as your journey will also su
 
 ## This journey has only just begun
 
-While the website is slowly being fleshed out, you can subscribe to the newsletter on [lovefirst.substack.com](https://lovefirst.substack.com/) to get all the latest updates.
+While the website is being fleshed out, you can subscribe to the newsletter on [lovefirst.substack.com](https://lovefirst.substack.com/) to get all the latest updates.
 

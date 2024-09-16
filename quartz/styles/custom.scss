@@ -15,9 +15,9 @@ blockquote.transclude {
 nobr {
   color: #fa1982;
 }
-// :root[saved-theme=dark] nobr {
-//   color: #ff73b2;
-// }
+:root[saved-theme="dark"] nobr {
+  color: #ff73b2;
+}
 
 // Changes to Quartz's styles
 ul.overflow,
