@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Source Sans Pro",
-        body: "Source Sans Pro",
+        body: "Inter",
         code: "Source Code Pro",
       },
       colors: {

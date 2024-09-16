@@ -23,7 +23,7 @@ export default {
     },
     backlinks: {
       title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      noBacklinksFound: "(None)",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -51,7 +51,7 @@ export default {
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "On this page",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,

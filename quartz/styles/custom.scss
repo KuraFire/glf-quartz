@@ -12,11 +12,68 @@ blockquote.transclude {
   }
 }
 
+// content basic overrides
+h1,
+h2,
+h3,
+h4 {
+  article > & {
+    position: relative;
+  }
+  article > & > a[role="anchor"] {
+    padding: 0 0.3rem;
+    position: absolute;
+    left: -2.1rem;
+    top: 0.25rem;
+  }
+  article > & > a[role="anchor"] svg {
+    height: 1rem;
+    width: 1rem;
+  }
+}
+
+h3,
+h4 {
+  font-family: var(--bodyFont);
+}
+article {
+  p {
+    font-size: 1.25rem;
+    line-height: 1.8rem;
+  }
+  h3,
+  h4 {
+    font-family: var(--headerFont);
+  }
+  a {
+    text-decoration: underline;
+  }
+}
+
+// pinkify nobr
 nobr {
-  color: #fa1982;
+  color: transparent;
+  background: linear-gradient(to bottom right, #fa1982 0%, #bf0a5e 100%);
+  background-clip: text;
 }
 :root[saved-theme="dark"] nobr {
-  color: #ff73b2;
+  background-image: linear-gradient(to bottom right, #ff73b2 0%, #fa1982 100%);
+}
+
+// logo dark/light color scheme switch
+.logo img {
+  margin: 0.3rem 0;
+}
+:root[saved-theme="light"] .logo .white {
+  display: none;
+}
+:root[saved-theme="dark"] .logo {
+  & .black {
+    display: none;
+  }
+  & .white {
+    display: block;
+  }
 }
 
 // Changes to Quartz's styles
@@ -30,6 +87,30 @@ ol.overflow:after {
 }
 li.section-li > .section.no-dates {
   grid-template-columns: 4fr 1fr;
+}
+
+// TOC overrides
+button#toc {
+  h3 {
+    color: transparent;
+    background: linear-gradient(to bottom right, #29eaf7 0%, #1982fa 100%);
+    background-clip: text;
+    font-size: 0.8rem;
+  }
+  .fold {
+    height: 20px;
+    width: 20px;
+  }
+}
+#toc-content {
+  li {
+    font-size: 1rem;
+    margin: 0.4rem 0;
+    line-height: 1.4rem;
+  }
+}
+:root[saved-theme="dark"] button#toc h3 {
+  background-image: linear-gradient(to bottom right, #b4d7fe 0%, #57a5ff 100%);
 }
 
 // From GLF design

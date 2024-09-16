@@ -21,7 +21,7 @@ That’s what is called *Cosmic Flow State*, and Love First is your path to get 
 
 Love First brings together ancient wisdom with cutting-edge science from fields like flow state, neurolinguistic programming, mindfulness, psychology and more, to create a holistic way of being that helps you get attuned to the magic and mysteries of the universe. And even if you’re not into spiritual stuff, or think this is a little “woo” for you, the evidence-based practices and teachings will help you elevate your life to the next level all the same.
 
-If you’re ready to advance and live a life in *Cosmic Flow State*, check out [Love First Coaching](https://lovefirstcoaching.com/).
+If you’d like to learn more about *Cosmic Flow State*, check out [Love First Coaching](https://lovefirstcoaching.com/).
 
 ## Our world kinda sucks (but it doesn’t have to)
 
