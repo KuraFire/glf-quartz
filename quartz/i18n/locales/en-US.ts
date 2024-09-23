@@ -63,8 +63,8 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Page Not Found",
-      notFound: "This page does not exist (yet).",
+      title: "Page Not Available or Found",
+      notFound: "SEE 404.tsx",
       home: "Return to Homepage",
     },
     folderContent: {
