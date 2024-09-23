@@ -12,4 +12,5 @@ To see what content is being considered, check out the [[Sitemap]] and any publi
 
 | Page or essay title   | Current raised $  | Target $ |
 | --------------------- | ----------------- | -------- |
+| [[abundance-vs-scarcity-mindset\|Abundance vs. Scarcity Mindset]] | $55 ✅ | $55 | 
 | [[Love First Writing Experiment]] | $0    | $55    |

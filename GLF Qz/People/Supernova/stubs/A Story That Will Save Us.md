@@ -21,8 +21,6 @@ All of us having actual, meaningful control over our fate.
 
 [[I Want To Make A (•) Difference In The World]]. 
 
-!
-
 A Love First Idea: [[The JEDI Knights of Cydonia]] playlist
 
 
