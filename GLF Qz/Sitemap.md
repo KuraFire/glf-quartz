@@ -1,5 +1,6 @@
 ---
 title: Planned Sitemap
+alias: sitemap
 description: This is an overview of the main content for Love First.
 date: 2024-09-23
 ---
