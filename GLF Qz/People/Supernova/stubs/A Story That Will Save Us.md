@@ -2,7 +2,11 @@
 title: A Story That Will Save Us
 description: This is the First Supernova Stub published online.
 date: 2024-09-20
-tags: ['MWLF', 'Free Guy', 'Love First Ideas', ‘Stranger Than Fiction’]
+tags: 
+- MWLF
+- Free Guy
+- Love First Ideas
+- Stranger Than Fiction
 ---
 
 ![[People/Supernova/stubs/index#^038c66]]
