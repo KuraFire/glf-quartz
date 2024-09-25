@@ -7,6 +7,7 @@ cssclasses:
 aliases:
 - 2024-09-25-new-beginnings
 - new-beginnings
+- New Beginnings
 tags:
 - Avatar
 - MWLF
