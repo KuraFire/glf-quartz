@@ -2,6 +2,7 @@
 title: A Primer on Love First
 date: 2024-09-17
 description: What is Love First, in a nutshell?
+showtitle: true
 ---
 
 Love First is an Idea, a Life Philosophy, a Framework, a Shared Identity, and a Movement.

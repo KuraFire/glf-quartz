@@ -9,7 +9,7 @@ tags:
 - Stranger Than Fiction
 ---
 
-![[People/Supernova/stubs/index#^038c66]]
+![[people/supernova/bursts/index#^038c66]]
 
 ---
 
@@ -51,7 +51,7 @@ The offer:
 This is a story about Faruk Rainbow Dragon Supernova
 
 
-(This Is: a [[People/Supernova/stubs/index|Supernova Stub]])
+(This Is: a [[people/supernova/bursts/index|Supernova Burst]])
 
 Context Matters:
 1. Me telling the Love First origin story to Mars
@@ -95,7 +95,11 @@ I read this in •• this fantastically (depressing) book
 
 
 My offer:
-If you work with me closely, you’ll find yourself frequently saying or thinking: “I find it surprisingly easy to do this thing that I’ve never done my entire lif[[I’m Going Love First; Here’s What That Means]] offer community and identity coaching. [[I’m Going Love First; Here’s What That Means]].
+If you work with me closely, you’ll find yourself frequently saying or thinking: “I find it surprisingly easy to do this thing that I’ve never done my entire life.”
+
+Hi, my name is Faruk, and I offer Community and Identity Coaching. Here’s What That Means.
+
+[[I Am Going Love First; Here’s What That Means]].
 
 
 
@@ -103,7 +107,7 @@ I want (a):
 - Queen Latifah From Stranger Than Fiction
 In my life
 
-Maybe we should use some different language about how to convince everyone of their imminent death
+Maybe we should use some different language about how to convince everyone of their imminent death…
 
 Because some people may have an understandable tendency to get really angry when they feel like they might be about to die (All. The. Time.)
 
@@ -122,7 +126,8 @@ Go see a Love Catalyst
 
 My challenge to people with opposing views:
 - I write how and why I Think YOU feel
-- You write how
+- You write how and why you think *I* feel
+- We move forward from whichever piece we both love more than the other
 
 
 (Little Did He Know)
@@ -134,10 +139,13 @@ MWLF
 My MWLF technique for when I do seminars and workshops:
 
 If I use a quote from something, like from STF:
-I left my socialist reading material at home
+> I left my socialist reading material at home
+
 (…because someone started complaining about socialism in the middle of my facilitation and it’s not the topic of concern)
 
-The meaning of a statement can make quite a difference 
+…it is also an invitation to point out the reference. “Question or Answer?”
+
+The meaning of a statement can become quite different just by finishing the sentence.
 
 I want to practice making myself extremely useful (to •• for) other people
 
@@ -154,19 +162,20 @@ Are we making a comedy or a tragedy?
 
 (Develop That)
 
-
+`<which scene?>`
 You had a little portal there?
 
 
 My first essay:
 How I want to make the world a better place with my vision of love first 
 
-She’s a Karen: Eiffel’s writing herself in her story
+Karen Eiffel’s writing herself into her own story. 
 
-Dear billionaires: the plot is coming to you
+Dear Billionaires The Plot Is Coming To You
 
 STF: the two timelines segment
-I am really good at envisioning possible timelines that a lot of people would love
+I am really good at envisioning possible timelines that a lot of people would love.
+(This is airbending; I haven’t been doing it much at all lately, however.)
 
 Consent Puzzle: Solved! (For Now)
 (See image: my puzzle page, multi-dimensional storytelling)
@@ -214,7 +223,7 @@ Would the ball land in the exact same place?
 
 The only true answer is you can’t predict that with certainty, because the prompt does not specify sufficient context or constraints for the experiment. I could throw it identically, but then I could snag it out of the air or swat it away before it hit the ground.
 
-We can change our minds any time we want to, and anytime we feel we *need* to, and we can radically alter the course of a trajectory. You can suddenly turn the wheel or rudder on the boat. You can snag the ball out of the air. [[You Can Change Your Mind. On anything. On *Everything*.]]
+We can change our minds any time we want to, and anytime we feel we *need* to, and we can radically alter the course of a trajectory. You can suddenly turn the wheel or rudder on the boat. You can snag the ball out of the air. [[You Can Change Your Mind. On Anything. On *Everything*.]]
 
 We can interfere with nature’s course; how ‘bout we try some more/new/different ways to interfere with it for positive impact?
 

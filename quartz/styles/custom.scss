@@ -51,12 +51,15 @@ article {
 }
 
 // pinkify nobr
-nobr {
+nobr,
+.nobr {
   color: transparent;
   background: linear-gradient(to bottom right, #fa1982 0%, #bf0a5e 100%);
   background-clip: text;
+  white-space: nowrap;
 }
-:root[saved-theme="dark"] nobr {
+:root[saved-theme="dark"] nobr,
+:root[saved-theme="dark"] .nobr {
   background-image: linear-gradient(to bottom right, #ff73b2 0%, #fa1982 100%);
 }
 

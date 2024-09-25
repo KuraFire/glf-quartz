@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      // Instagram: "https://instagram.com/GoingLoveFirst",
+      Instagram: "https://instagram.com/GoingLoveFirst",
       "Love First Coaching": "https://lovefirstocaching.com/",
     },
   }),
@@ -25,18 +25,18 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    // Component.Search(),
+    Component.Search(),
     Component.Darkmode(),
-    // Component.DesktopOnly(
-    //   Component.Explorer({
-    //     title: "Site map",
-    //     folderClickBehavior: "link",
-    //     folderDefaultState: "open",
-    //   }),
-    // ),
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "Site map",
+        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+      }),
+    ),
   ],
   right: [
-    // Component.Graph(),
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     // Component.Backlinks(),
   ],
@@ -55,7 +55,7 @@ export const defaultListPageLayout: PageLayout = {
       Component.Explorer({
         title: "Site map",
         folderClickBehavior: "link",
-        folderDefaultState: "open",
+        folderDefaultState: "collapsed",
       }),
     ),
   ],

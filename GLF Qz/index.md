@@ -1,15 +1,14 @@
 ---
 title: Welcome to Going Love First
+aliases: 
+- index
 cssclasses: 
 - welcome
 - home
 ---
 
-%%  ![[hero-image.jpg]]
-I’m Faruk. I’m part of a super great [[Harmony]] called Love First, and I’m so happy to have you become a part of it!  %%
-
+# Welcome to Love First
 ## A philosophy for a life lived fully, authentically, and chock full of love
-
 
 **What if every moment of your life, every experience, was guided gently by all of the wisdom and love this universe holds for you?** Imagine waking up each day with the joy and comfort of knowing that you are on the path to becoming your highest self, and everything and everyone around you is conspiring to help you. Imagine feeling such deep trust that the universe will provide, you feel it in your bones that you live a life of abundance and perpetual growth. Imagine you’re just flowing smoothly in a river of pure, cosmic love.
 
@@ -20,6 +19,8 @@ That’s what is called *Cosmic Flow State*, and Love First is your path to get 
 <nobr>Love First</nobr> is a framework for transforming your reality in a way that benefits all areas of your life, making you feel more connected to your best self, your loved ones, and the world around you. 
 
 Love First brings together ancient wisdom with cutting-edge science from fields like flow state, neurolinguistic programming, mindfulness, psychology and more, to create a holistic way of being that helps you get attuned to the magic and mysteries of the universe. And even if you’re not into spiritual stuff, or think this is a little “woo” for you, the evidence-based practices and teachings will help you elevate your life to the next level all the same.
+
+Learn more in the [[primer|Primer on Love First]], or check out the first [[Love First Writing Experiment]].
 
 If you’d like to learn more about *Cosmic Flow State*, check out [Love First Coaching](https://lovefirstcoaching.com/).
 
