@@ -1,11 +1,16 @@
 ---
 title: New Beginnings
-description: 
+description: Let’s infuse the world with more hope, vision, and love.
 date: 2024-09-25
 aliases:
 - 2024-09-25-new-beginnings
 - new-beginnings
+tags:
+- Avatar
+- MWLF
 ---
+
+![[Faruk-Lake-Anza.jpg]]
 
 I haven’t been doing much Airbending in recent times, and that’s a pity. Airbending, for those unfamiliar, is the art and practice of **Believing in Possibility** in everything you do. It’s infusing hope and optimism into hardships (without going overboard), and painting a picture of a brighter future. It’s constantly looking for different solutions, alternative options, and ways to create something new that hasn’t been done (or believed in) before. It’s about not giving up, no matter what.
 
@@ -25,4 +30,6 @@ The old world is flaming out. It’s time we write the story of a brand new one.
 
 Care to join?
 
-![[Faruk-Lake-Anza.jpg]]
+Let’s begin with introductions.
+
+Hi, my name is Faruk Rainbow Dragon Supernova, and I am a Love Catalyst.
