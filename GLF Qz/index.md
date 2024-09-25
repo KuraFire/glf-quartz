@@ -5,10 +5,12 @@ aliases:
 cssclasses: 
 - welcome
 - home
+- subtitle
 ---
 
 # Welcome to Love First
-## A philosophy for a life lived fully, authentically, and chock full of love
+
+ A philosophy for a life lived with authenticity, levity, and chock full of love.
 
 **What if every moment of your life, every experience, was guided gently by all of the wisdom and love this universe holds for you?** Imagine waking up each day with the joy and comfort of knowing that you are on the path to becoming your highest self, and everything and everyone around you is conspiring to help you. Imagine feeling such deep trust that the universe will provide, you feel it in your bones that you live a life of abundance and perpetual growth. Imagine you’re just flowing smoothly in a river of pure, cosmic love.
 

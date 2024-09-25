@@ -49,6 +49,13 @@ article {
     text-decoration: underline;
   }
 }
+.subtitle,
+.newsletter {
+  h1 + p {
+    color: #687488;
+    font-size: 150%;
+  }
+}
 
 // pinkify nobr
 nobr,

@@ -17,13 +17,13 @@ export default ((opts?: Options) => {
           Copyright © {year} Love First, LLC. All rights reserved, except where otherwise noted.
           {/* <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> */}
         </p>
-        {/* <ul>
+        <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>
             </li>
           ))}
-        </ul> */}
+        </ul>
       </footer>
     )
   }

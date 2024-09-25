@@ -5,10 +5,11 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.TagList()],
   footer: Component.Footer({
     links: {
-      Instagram: "https://instagram.com/GoingLoveFirst",
+      // Instagram: "https://instagram.com/GoingLoveFirst",
+      Newsletter: "https://lovefirst.substack.com/",
       "Love First Coaching": "https://lovefirstocaching.com/",
     },
   }),
@@ -20,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     // Component.ContentMeta(),
-    Component.TagList(),
+    // Component.TagList(),
   ],
   left: [
     Component.PageTitle(),

@@ -2,6 +2,8 @@
 title: New Beginnings
 description: Let’s infuse the world with more hope, vision, and love.
 date: 2024-09-25
+cssclasses: 
+- newsletter
 aliases:
 - 2024-09-25-new-beginnings
 - new-beginnings
@@ -9,6 +11,10 @@ tags:
 - Avatar
 - MWLF
 ---
+
+# New Beginnings
+
+Let’s infuse the world with more hope, vision, and love.
 
 ![[Faruk-Lake-Anza.jpg]]
 
