@@ -6,7 +6,7 @@ date: 2024-09-23
 showtitle: true
 ---
 
-This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Writing Experiment]], you can donate any amount to [@FarukSpeaks on Venmo](https://venmo.com/farukspeaks) to support the creation of any of these items; just put the page name or essay title in your message to move it towards the top of the [[to-write|To Write]] pile. 
+This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Writing Experiment]], you can donate any amount to [[people/faruk/index|Faruk]] using either [Venmo](https://venmo.com/farukspeaks) or [Paypal](https://paypal.me/FarukAtes) to support the creation of any of these items; just put the page name or essay title in your message to move it towards the top of the [[to-write|To Write]] pile. 
 
 ![[sitemap.jpg]]
 
