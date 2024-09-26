@@ -11,6 +11,10 @@ aliases:
 tags:
 - Avatar
 - MWLF
+elsewhere:
+- https://medium.com/lovefirst/new-beginnings-49f80d671ba6
+- https://lovefirst.substack.com/p/new-beginnings
+- https://www.facebook.com/farukates/posts/10169333289865055
 ---
 
 # New Beginnings
