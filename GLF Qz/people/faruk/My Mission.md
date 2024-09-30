@@ -4,9 +4,19 @@ description: Faruk Ateş’s life mission, in a nutshell.
 date: 2024-09-28
 tags:
   - North Star
+cssclasses: 
+- subtitle
+elsewhere:
+- https://medium.com/lovefirst/my-mission-my-north-star-3b0b7ea76669
+- https://lovefirst.substack.com/p/my-mission-my-north-star
+- https://www.facebook.com/farukates/posts/10169361464110055
 ---
 
 # My Mission, My North Star 
+
+How loss and grief led me to discovering my true purpose and passion in life.
+
+![[johannes-plenio-mission.jpg]]
 
 The meaning of life is to give life meaning. That is a unique proposition for every person, but I believe that Love is at the heart of every person’s perspective of a meaningful life (for them). <q>Everything comes down to love; love, or the lack of it.</q> (Fred Rogers)
 
@@ -26,6 +36,6 @@ To bring together people, communities, and movements in a uniting story of human
 
 To spread Love and Harmony across all of humanity for the next 1000 years.
 
-To get 9.94 million Americans and 224 million people worldwide to _[[Go Love First]]_.
+To get 9.94 million Americans & 224 million people worldwide to _[[Go Love First]]_.
 
 To be One with Love.
