@@ -20,6 +20,8 @@ So now this is my Mission in life, my [[North Star]]:
 
 To invent social, cognitive, and technological tools and solutions that catalyze new approaches to governance, harmony, and social and environmental stewardship.
 
+To offer cognitive reframes, mindset and paradigm shifts that help us understand ourselves and each other better, more empathetically, and more harmoniously.
+
 To bring together people, communities, and movements in a uniting story of humanity in a Revolution of Love.
 
 To spread Love and Harmony across all of humanity for the next 1000 years.
