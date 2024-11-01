@@ -38,8 +38,8 @@ h4 {
 }
 article {
   p {
-    font-size: 1.25rem;
-    line-height: 1.8rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
   h3,
   h4 {
@@ -48,12 +48,16 @@ article {
   a {
     text-decoration: underline;
   }
+  a.internal {
+    background-color: transparent;
+  }
 }
 .subtitle,
 .newsletter {
   h1 + p {
     color: #687488;
     font-size: 150%;
+    line-height: 150%;
   }
 }
 

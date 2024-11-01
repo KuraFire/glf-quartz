@@ -36,5 +36,5 @@ Love First goes beyond just *personal* development, as your journey will also su
 
 ## This journey has only just begun
 
-While the website is being fleshed out, you can subscribe to the newsletter on [lovefirst.substack.com](https://lovefirst.substack.com/) to get all the latest updates.
+While we’re building out the website, subscribe to the newsletter on [lovefirst.substack.com](https://lovefirst.substack.com/) to get all the latest updates.
 

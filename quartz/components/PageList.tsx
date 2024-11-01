@@ -47,6 +47,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 
         const showDatesClass = showDates ? "show-dates" : "no-dates"
 
+        // Use noindex to hide pages from being listed
+        const noIndex = page.frontmatter?.noindex
+        if (noIndex) {
+          return null
+        }
+
         return (
           <li class="section-li">
             <div class={classNames(showDatesClass, "section")}>

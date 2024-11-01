@@ -20,7 +20,7 @@ This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Wr
 - /love-first-is
 	- /an-idea
 	- /a-story
-	- /a-framework
+	- [[A Framework]]
 	- /a-way-of-life
 	- /a-shared-identity
 	- /a-prefix
