@@ -23,9 +23,9 @@ At a high level, the framework can be explored like this:
 ## 🫵🏽 1 Invitation
 1. F_ll \_n Th\_ Bl_nks
 
-## 📜 2 Rules
-1. We Don’t Have Rules; We Have Agreements
-1. The Doctor Lies
+## 🎲 2 Modalities
+1. The Game of Love
+2. Kintsugi for the Heart
 
 ## 🗣️ 3 Declarations
 1. Why You Should Declare Rock Bottom
@@ -40,12 +40,12 @@ At a high level, the framework can be explored like this:
 5. Love (Spirit)
 
 ## 🧠 8 Mindsets
-1. Growth
-2. Abundance
-3. Loving
-4. Holistic
-5. Authentic Growth
-6. Interdependent
+1. Loving
+2. Growth
+3. Abundance
+4. Interdependent
+5. Authentic
+6. Holistic
 7. Cosmo-centric
 8. Magical
 
@@ -61,8 +61,8 @@ At a high level, the framework can be explored like this:
 9. Three Strikes
 10. The Heart of Consent
 11. Love Momentum
-12. (TBD)
-13. (TBD)
+12. Multi-dimensionality
+13. The Rainbow Lens
 
 ## 🎼 21 Alignment practices
 1. Express Gratitude
@@ -72,16 +72,16 @@ At a high level, the framework can be explored like this:
 5. Say “Yes, And!”
 6. Practice Mindfulness
 7. Break The Fourth Wall
-8. Create And Gift
-9. Play Together, Win Together
-10. Validate The Story
-12. Find Your Tribe
+8. Play To Win Together
+9. Validate The Story
+10. Find Your Tribe
+11. Create And Gift
+12. Celebrate Our Differences
+13. Be Curious, Not Judgmental 
 14. Connect The Dots
-13. Celebrate Our Differences
-15. Be Curious, Not Judgmental 
-16. Make Good Art
-17. Experiment
-11. Don’t Be Perfect
+15. Make Good Art
+16. Experiment
+17. Don’t Be Perfect
 18. Teach Everything You Know
 19. Question Everything
 20. Restore Balance
@@ -90,4 +90,4 @@ At a high level, the framework can be explored like this:
 
 ### Version & Footnotes
 
-This page is 🌀 vol. 1 of a [[Living Document]]. It is currently in Draft status.
+This page is 🌀 vol. 1 of a [[Living Document]]. It is currently in Tentatively Complete status.

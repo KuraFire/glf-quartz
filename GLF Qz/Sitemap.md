@@ -13,8 +13,8 @@ This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Wr
 - /start-here
 	- /introduction
 	- /what-is-love-first
+	- [[A Primer on Love First|A Primer on Love First]]
 	- /benefits
-	- [[primer|A Primer on Love First]]
 	- /participate
 	- /collaborate
 - /love-first-is
@@ -27,35 +27,44 @@ This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Wr
 	- /an-olive-branch
 	- /a-social-contract
 	- /a-movement
-- /how-to/go-love-first/
+- /how-to
 	- /rules
 	- /agreements
 	- /practices
 - /philosophy
-	- /priorities
 	- /vision
-	- /practices
 	- /universal-love
 	- /game-of-love
-	- /mindsets
-		- /loving-vs-unloved-mindset
-		- /growth-vs-fixed-mindset
-		- /abundance-vs-scarcity-mindset
-		- /interdependent-vs-individualist-mindset
-		- /cosmocentric-vs-egocentric-mindset
-		- /holistic-vs-atomic-mindset
-- /models
-	- /priorities
-	- /universal-growth-model
-	- /mobius-strip
-	- /n-plus-1
-	- /four-diamonds
-	- /three-strikes
-	- /k2-everest
-	- /gender-hexagon
+	- /kintsugi-for-the-heart
+	- /fill-in-the-blanks
 - /framework
 	- /five-stages-of-mastery
 	- /context-matters
+	- /elements
+	- /mindsets
+		- /loving-mindset
+		- /growth-mindset
+		- /abundance-mindset
+		- /interdependent-mindset
+		- /authentic-mindset
+		- /holistic-mindset
+		- /cosmocentric-mindset
+		- /magical-mindset
+	- /models
+		- /priorities
+		- /universal-growth-model
+		- /mobius-strip
+		- /four-diamonds
+		- /n-plus-1
+		- /gender-identity-hexagon
+		- /gps-model
+		- /k2-everest
+		- /three-strikes
+		- /heart-of-consent
+		- /love-momentum
+		- /rainbow-lens
+	- /practices
+		- /<21x>
 - /everything-is
 	- /everything
 	- /a-remix
