@@ -13,34 +13,37 @@ This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Wr
 - /start-here
 	- /introduction
 	- /what-is-love-first
-	- [[A Primer on Love First|A Primer on Love First]]
-	- /benefits
+	- [[A Primer on Love First]]
 	- /participate
 	- /collaborate
 - /love-first-is
 	- /an-idea
 	- /a-story
 	- [[A Framework]]
+	- [[A Game]]
 	- /a-way-of-life
 	- /a-shared-identity
 	- /a-prefix
 	- /an-olive-branch
 	- /a-social-contract
 	- /a-movement
-- /how-to
+- /how-to/go-love-first/
 	- /rules
 	- /agreements
 	- /practices
 - /philosophy
 	- /vision
+	- /priorities
 	- /universal-love
-	- /game-of-love
-	- /kintsugi-for-the-heart
-	- /fill-in-the-blanks
 - /framework
 	- /five-stages-of-mastery
 	- /context-matters
 	- /elements
+		- /earth
+		- /fire
+		- /water
+		- /air
+		- /love
 	- /mindsets
 		- /loving-mindset
 		- /growth-mindset
@@ -68,7 +71,6 @@ This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Wr
 - /everything-is
 	- /everything
 	- /a-remix
-	- /love
 	- /a-story
 	- /a-spectrum
 	- /a-game
@@ -77,9 +79,10 @@ This is a planned Sitemap for goinglovefirst.com. As part of the [[Love First Wr
 	- /connected
 	- /holographic
 	- /communication
-	- /fine
-	- /political
 	- /consciousness
+	- /political
+	- /fine
+	- /love
 - /ideas
 	- /years-of-love-playlists
 	- /social-development-platform
